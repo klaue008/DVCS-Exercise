@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="Testing" Language="C#" AutoEventWireup="true" MasterPageFile="~/Site.Master" CodeFile="Test1.aspx.cs" Inherits="Webpages_Test1" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: Title %>.</h2>
+    <h2><%: Testing Page 1 %>.</h2>
     <h3>Your contact page.</h3>
     <address>
         One Microsoft Way<br />
